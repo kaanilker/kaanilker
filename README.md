@@ -44,8 +44,11 @@
 
 ### 📫 Contact Me
 <p align="center">
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:kaanilkernacar2010@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge" />
+  </a>
+  <a href="https://instagram.com/kaanilker.r" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow_Me-pink?style=for-the-badge&logo=instagram" />
   </a>
 </p>
 
