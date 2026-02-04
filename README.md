@@ -1,15 +1,14 @@
 <h1 align="center">Hi , I'm Kaan İlker</h1>
-<h3 align="center">Developer/Researcher focused on Computer Science Theory, C, Web Development, and Artificial Intelligence.</h3>
+<h3 align="center">Developer/Researcher focused on Computer Science Theory, Web Development and Artificial Intelligence.</h3>
 
 ---
 
 ### About Me
-- I am a student actively learning and developing software.
+- I am a student actively learning computer science, maths, physics and developing software.
 - Currently studying and building projects in **Artificial Intelligence and Embedded Systems**.
 - I work with **Python**, **C**, and **Web Technologies** (HTML, CSS, JavaScript).
-- I believe in continuous learning and improvement.
 - I strongly support **Open Source** and **share all of my projects publicly**.
-- Inspired by **Linus Torvalds**, I value collaboration, transparency, and free software.
+- Inspired by **Linus Torvalds**.
 
 ---
 
@@ -20,7 +19,8 @@
 | **Programming Languages** | Python, C |
 | **Web Development** | HTML, CSS, JavaScript |
 | **AI / Data Science** | NumPy, Pandas, Scikit-Learn (Learning TensorFlow / PyTorch) |
-| **Tools** | Git, GitHub, VS Code, Linux Fedora, Docker |
+| **Tools** | Git, GitHub, VS Code, Docker, Banana Pi BPI M2 Berry |
+| **System** | Fedora Workstation 43, Lenovo IdeaPad Slim 3 |
 
 ---
 
@@ -53,5 +53,3 @@
 </p>
 
 ---
-
-> “Knowledge becomes valuable when it is shared.”
