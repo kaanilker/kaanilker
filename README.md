@@ -20,7 +20,7 @@
 | **Web Development** | HTML, CSS, JavaScript |
 | **AI / Data Science** | NumPy, Pandas, Scikit-Learn (Learning TensorFlow / PyTorch) |
 | **Tools** | Git, GitHub, VS Code, Docker, Banana Pi BPI M2 Berry |
-| **System** | Fedora Workstation 43, Lenovo IdeaPad Slim 3 |
+| **System** | Fedora Workstation 44, Lenovo IdeaPad Slim 3 |
 
 ---
 
